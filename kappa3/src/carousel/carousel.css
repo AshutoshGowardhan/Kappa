@@ -3,15 +3,13 @@
 }
 .fill {
   display: flex;
-  justify-content: center;
-  align-items: center;
   overflow: hidden;
   height: 350px;
 }
 .fill img {
-  flex-shrink: 0;
+  
   min-width: 100%;
-  min-height: 100%;
+  
   border-radius: 20px 0px 0px 20px;
   
 }
