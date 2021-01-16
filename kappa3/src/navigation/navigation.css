@@ -9,7 +9,17 @@ nav{
 .left-links{
   flex:1 1 200px;
   font-size: 13px;
+  margin-top: 5px;
 }
+
+.nav-kappa {
+  font-size: 18px;
+  color: #191A1B;
+  font-weight: bolder;
+  font-family: 'Inter', sans-serif;
+  margin-right: 15px;
+}
+
 
 .right-links {
   margin-top: 10px;
@@ -21,7 +31,7 @@ nav{
   padding: 14px;
   color: rgb(0, 0, 0);
   text-decoration: none;
-  font-size: 17px;
+  font-size: 13px;
   font-weight: bolder;
   font-family: 'Inter', sans-serif;
 }
