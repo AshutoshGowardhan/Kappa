@@ -1,0 +1,55 @@
+.test-card {
+  border-radius: 20px;
+}
+.fill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 350px;
+}
+.fill img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  border-radius: 20px 0px 0px 20px;
+  
+}
+
+.hr-class {
+  width:22%;
+  text-align:left;
+  margin-left:0;
+  background: black;
+}
+
+.testimonial {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 19.36px;
+}
+
+.test-name {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.test-designation {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: -5px;
+}
+
+.brand-hdfc {
+  width: 139px;
+  padding-top: 15px;
+}
+.brand-mercedes {
+  width: 100.4px;
+}
+
+
+.test-para {
+  padding-top: 20px;
+}
